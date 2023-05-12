@@ -1,7 +1,7 @@
 // typing style for profession
 var typed = new Typed(".typing",{
-    strings: ["web developer", 'web designer', 'programmer', 'coder' ],
-    typeSpeed: 50,
+    strings: ['','Web developer', 'web designer', 'programmer', 'coder' ],
+    typeSpeed: 40,
     backSpeed:30,
     loop : true
   });

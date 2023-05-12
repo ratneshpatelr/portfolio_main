@@ -281,18 +281,18 @@ ul{
 
 }
 h3 .hello{
-    font-size: 28px;
+    font-size: 16px;
     margin: 15px 0;
 }
 .home-info .hello .name{
     font-family: 'Clicker Script' , cursive;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 700;
     color: var(--skin-color);
 }
-h3 .my-profession{
+ .my-profession{
     
-    font-size: 30px;
+    font-size: 22px;
     margin: 15px 0;
 }
 .typing{
