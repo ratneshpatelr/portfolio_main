@@ -277,11 +277,11 @@ ul{
 .home .home-info{
     flex: 0 0 60%;
     max-width: 60%;
-    font-size: 40px;
+    font-size: 30px;
 
 }
-h3 .hello{
-    font-size: 16px;
+ .hello{
+    font-size: 30px;
     margin: 15px 0;
 }
 .home-info .hello .name{
@@ -289,10 +289,11 @@ h3 .hello{
     font-size: 30px;
     font-weight: 700;
     color: var(--skin-color);
+    border-bottom: 2px solid var(--skin-color);
 }
  .my-profession{
     
-    font-size: 22px;
+    font-size: 25px;
     margin: 15px 0;
 }
 .typing{
@@ -452,7 +453,7 @@ h3 .hello{
 .about .about-content .Education h2{
     color: red;
     margin-top: 40px;
-    max-width: 125px;
+    max-width: 200px;
     border-bottom: 2px solid var(--skin-color);
 }
 .about .about-content .Education h4{
@@ -530,6 +531,7 @@ transition: all 0.3s ease;
     height: 500px;
 }
 .portfolio .portfolio-item .portfolio-item-inner .portfolio-img h4{
+    border-bottom: 2px solid var(--skin-color);
     font-size: 23px;
     font-weight: 500;
     color: var(--skin-color);
